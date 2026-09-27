@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zainobada2010-cell.github.io/dr-ibrahim-obada-wep1975.2026-2027/sitemap.xml
